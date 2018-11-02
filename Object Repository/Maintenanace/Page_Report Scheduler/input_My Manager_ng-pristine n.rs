@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_My Manager_ng-pristine n</name>
+   <tag></tag>
+   <elementGuidId>00cf7335-9c05-49da-92b7-0a9af33e5856</elementGuidId>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.model</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>!vm.isEnabled</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.handleClick($event); $event.stopPropagation();</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;angular-schedule-app&quot;)/div[@class=&quot;ng-scope&quot;]/landing-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;landing-page__page___2fGGd&quot;]/div[@class=&quot;landing-page__right___n2zAY&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;ng-scope&quot;]/reports-scheduler-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 d-schedule-task-form&quot;]/reports-scheduler-form[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/cimpl-form[@class=&quot;ng-isolate-scope&quot;]/div[1]/div[@class=&quot;form-horizontal&quot;]/div[1]/ng-transclude[1]/div[@class=&quot;form-group cimpl-form__form-row___3qKWV ng-scope ng-isolate-scope&quot;]/div[@class=&quot;col-md-8&quot;]/cimpl-checkbox[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[1]/div[@class=&quot;checkbox sameLine cimpl-checkbox__checkboxFix___37SCw&quot;]/label[@class=&quot;ng-binding&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>(//input[@type='checkbox'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='angular-schedule-app']/div/landing-page/div/div[2]/div/div/reports-scheduler-page/div/div/div[2]/reports-scheduler-form/div/cimpl-form/div/div/div/ng-transclude/div[5]/div/cimpl-checkbox[2]/div/div/label/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Myself -'])[1]/following::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Manager -'])[1]/preceding::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//cimpl-checkbox[2]/div/div/label/input</value>
+   </webElementXpaths>
+</WebElementEntity>

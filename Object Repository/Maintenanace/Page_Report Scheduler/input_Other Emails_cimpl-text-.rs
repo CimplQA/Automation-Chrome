@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Other Emails_cimpl-text-</name>
+   <tag></tag>
+   <elementGuidId>d7d9c85b-55cc-4a00-9cf7-533b8ce8ad70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>!vm.parsedShowAsText</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cimpl-text-box </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ 'undefined': vm.isDisabled }</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter external email...</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.model</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>vm.isDisabled</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;angular-schedule-app&quot;)/div[@class=&quot;ng-scope&quot;]/landing-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;landing-page__page___2fGGd&quot;]/div[@class=&quot;landing-page__right___n2zAY&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;ng-scope&quot;]/reports-scheduler-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 d-schedule-task-form&quot;]/reports-scheduler-form[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/cimpl-form[@class=&quot;ng-isolate-scope&quot;]/div[1]/div[@class=&quot;form-horizontal&quot;]/div[1]/ng-transclude[1]/div[@class=&quot;form-group cimpl-form__form-row___3qKWV ng-scope ng-isolate-scope&quot;]/div[@class=&quot;col-md-8&quot;]/ng-transclude[1]/email-selector[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[1]/div[1]/div[@class=&quot;sameLine marginRight&quot;]/div[@class=&quot;undefined ng-isolate-scope&quot;]/input[@class=&quot;cimpl-text-box&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>(//input[@type='text'])[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='angular-schedule-app']/div/landing-page/div/div[2]/div/div/reports-scheduler-page/div/div/div[2]/reports-scheduler-form/div/cimpl-form/div/div/div/ng-transclude/div[6]/div/ng-transclude/email-selector/div/div/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Emails'])[1]/following::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others -'])[1]/following::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Employee'])[1]/preceding::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//email-selector/div/div/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

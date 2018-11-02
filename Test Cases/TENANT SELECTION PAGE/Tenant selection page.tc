@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test cases will be taking from the Login test case</description>
+   <name>Tenant selection page</name>
+   <tag>employee role</tag>
+   <comment></comment>
+   <testCaseGuid>87081736-ae19-4a41-a184-39d1ba476044</testCaseGuid>
+</TestCaseEntity>
