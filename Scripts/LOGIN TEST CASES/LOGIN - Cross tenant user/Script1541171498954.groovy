@@ -24,3 +24,5 @@ WebUI.setMaskedText(findTestObject('Maintenanace/Page_Cimpl/input_English_cimpl-
 
 WebUI.click(findTestObject('Maintenanace/Page_Cimpl/span_Sign In'))
 
+WebUI.closeBrowser()
+
