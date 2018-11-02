@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Task Name_cimpl-text-box</name>
+   <tag></tag>
+   <elementGuidId>4d13a57d-ce16-4ca9-8c99-de7c1b69930f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>!vm.parsedShowAsText</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cimpl-text-box </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ 'undefined': vm.isDisabled }</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>vm.model</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>vm.isDisabled</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;angular-schedule-app&quot;)/div[@class=&quot;ng-scope&quot;]/landing-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;landing-page__page___2fGGd&quot;]/div[@class=&quot;landing-page__right___n2zAY&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;ng-scope&quot;]/reports-scheduler-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 d-schedule-task-form&quot;]/reports-scheduler-form[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/cimpl-form[@class=&quot;ng-isolate-scope&quot;]/div[1]/div[@class=&quot;form-horizontal&quot;]/div[1]/ng-transclude[1]/div[@class=&quot;form-group cimpl-form__form-row___3qKWV ng-scope ng-isolate-scope&quot;]/div[@class=&quot;col-md-8 autoWidth&quot;]/ng-transclude[1]/div[@class=&quot;undefined ng-scope ng-isolate-scope&quot;]/input[@class=&quot;cimpl-text-box&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>(//input[@type='text'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='angular-schedule-app']/div/landing-page/div/div[2]/div/div/reports-scheduler-page/div/div/div[2]/reports-scheduler-form/div/cimpl-form/div/div/div/ng-transclude/div[2]/div/ng-transclude/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task Name'])[2]/following::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Myself'])[1]/following::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Name'])[1]/preceding::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Base Report'])[1]/preceding::input[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//ng-transclude/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

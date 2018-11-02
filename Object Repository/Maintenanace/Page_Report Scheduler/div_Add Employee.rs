@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add Employee</name>
+   <tag></tag>
+   <elementGuidId>159ee69c-94bc-4f14-a65b-3c435efd1f6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='angular-schedule-app']/div/landing-page/div/div[2]/div/div/reports-scheduler-page/div/div/div[2]/reports-scheduler-form/div/cimpl-form/div/div/div/ng-transclude/div[6]/div/ng-transclude/email-selector/div/div/div[4]/employee-popup-selector/div/div/div/div/div/cimpl-icon-button/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>vm.label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sameLine clickableLabel cimpl-icon-button__leftIconLabelFix___1-CBn</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>vm.label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.click()</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Employee</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;angular-schedule-app&quot;)/div[@class=&quot;ng-scope&quot;]/landing-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;landing-page__page___2fGGd&quot;]/div[@class=&quot;landing-page__right___n2zAY&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;ng-scope&quot;]/reports-scheduler-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 d-schedule-task-form&quot;]/reports-scheduler-form[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/cimpl-form[@class=&quot;ng-isolate-scope&quot;]/div[1]/div[@class=&quot;form-horizontal&quot;]/div[1]/ng-transclude[1]/div[@class=&quot;form-group cimpl-form__form-row___3qKWV ng-scope ng-isolate-scope&quot;]/div[@class=&quot;col-md-8&quot;]/ng-transclude[1]/email-selector[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[1]/div[1]/div[@class=&quot;sameLine&quot;]/employee-popup-selector[@class=&quot;ng-isolate-scope&quot;]/div[1]/div[@class=&quot;ng-isolate-scope&quot;]/div[1]/div[1]/div[@class=&quot;cimpl-popup-selector__paddingFix___1INF7&quot;]/cimpl-icon-button[@class=&quot;ng-isolate-scope&quot;]/div[1]/div[@class=&quot;sameLine clickableLabel cimpl-icon-button__leftIconLabelFix___1-CBn&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//div[@id='angular-schedule-app']/div/landing-page/div/div[2]/div/div/reports-scheduler-page/div/div/div[2]/reports-scheduler-form/div/cimpl-form/div/div/div/ng-transclude/div[6]/div/ng-transclude/email-selector/div/div/div[4]/employee-popup-selector/div/div/div/div/div/cimpl-icon-button/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Emails'])[1]/following::div[23]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others -'])[1]/following::div[24]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::div[17]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FilterByStatus...'])[1]/preceding::div[20]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//div/div/div/div/cimpl-icon-button/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test cases will be taking from the Login test case</description>
+   <name>Tenant Selection - Using Cross tenant</name>
+   <tag>employee role</tag>
+   <comment></comment>
+   <testCaseGuid>d8a2468e-f294-4097-87dd-0fe92e2e7fbd</testCaseGuid>
+</TestCaseEntity>
